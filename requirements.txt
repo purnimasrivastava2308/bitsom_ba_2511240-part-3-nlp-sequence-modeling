@@ -1,0 +1,8 @@
+# Add your Python dependencies here
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+nltk
