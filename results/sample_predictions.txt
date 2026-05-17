@@ -1,0 +1,108 @@
+SAMPLE PREDICTIONS - CUSTOMER SUPPORT TICKET CLASSIFICATION
+======================================================================
+
+Ticket 1
+Original Message: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+Cleaned Message : need information payment process ticket number please respond soon possible...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 2
+Original Message: I need information about the payment process.
+Cleaned Message : need information payment process...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 3
+Original Message: The refund process was fast and convenient. I appreciate the quick response.
+Cleaned Message : refund process fast convenient appreciate quick response...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 4
+Original Message: My refund is still pending and this experience is frustrating. My ticket number is 33927.
+Cleaned Message : refund still pending experience frustrating ticket number...
+True Sentiment  : negative
+Predicted       : negative
+------------------------------------------------------------
+
+Ticket 5
+Original Message: Please tell me how to update my account details.
+Cleaned Message : please tell update account details...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 6
+Original Message: I need help finding the invoice for my last order. Please respond as soon as possible.
+Cleaned Message : need help finding invoice last order please respond soon possible...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 7
+Original Message: I am satisfied with the plan and would recommend it to others. My ticket number is 99198.
+Cleaned Message : satisfied plan would recommend others ticket number...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 8
+Original Message: I want to understand the warranty terms for this product.
+Cleaned Message : want understand warranty terms product...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 9
+Original Message: I need help finding the invoice for my last order.
+Cleaned Message : need help finding invoice last order...
+True Sentiment  : neutral
+Predicted       : neutral
+------------------------------------------------------------
+
+Ticket 10
+Original Message: My refund is still pending and this experience is frustrating.
+Cleaned Message : refund still pending experience frustrating...
+True Sentiment  : negative
+Predicted       : negative
+------------------------------------------------------------
+
+Ticket 11
+Original Message: Great service and clear communication from the support team.
+Cleaned Message : great service clear communication support team...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 12
+Original Message: I like the new video call and it is easy to use. I appreciate the quick response.
+Cleaned Message : like new video call easy use appreciate quick response...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 13
+Original Message: Your support team resolved my issue quickly. Thank you. I appreciate the quick response.
+Cleaned Message : support team resolved issue quickly thank appreciate quick response...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 14
+Original Message: I am satisfied with the plan and would recommend it to others. My ticket number is 57739. I appreciate the quick response.
+Cleaned Message : satisfied plan would recommend others ticket number appreciate quick response...
+True Sentiment  : positive
+Predicted       : positive
+------------------------------------------------------------
+
+Ticket 15
+Original Message: I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.
+Cleaned Message : raised multiple tickets nobody fixed problem please respond soon possible...
+True Sentiment  : negative
+Predicted       : negative
+------------------------------------------------------------
+

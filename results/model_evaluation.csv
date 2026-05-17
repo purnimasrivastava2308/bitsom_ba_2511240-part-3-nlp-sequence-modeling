@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,Type,Strength
+LSTM Sequence Model,0.3499999940395355,0.1225,0.35,0.18148148148148147,Deep Learning (Sequence),Better at understanding context
